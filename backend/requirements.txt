@@ -8,3 +8,6 @@ gtts
 playsound
 pygame
 python-telegram-bot==13.15
+transformers
+torch
+gunicorn
